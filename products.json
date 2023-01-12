@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1,
+		"thumbnails": [
+			{
+				"originalName": "camisa-stone.png"
+			}
+		],
+		"havePics": true,
+		"title": "Camisa Stone",
+		"code": "00001",
+		"price": "1090",
+		"stock": "35",
+		"category": "camisas"
+	},
+	{
+		"id": 2,
+		"thumbnails": [
+			{
+				"originalName": "campera-classy.png"
+			}
+		],
+		"havePics": true,
+		"title": "Camisa Classy",
+		"code": "00002",
+		"price": "2590",
+		"stock": "35",
+		"category": "camperas"
+	},
+	{
+		"id": 3,
+		"thumbnails": [
+			{
+				"originalName": "conjunto-pink.png"
+			}
+		],
+		"havePics": true,
+		"title": "Conjunto Pink",
+		"code": "00003",
+		"price": "4980",
+		"stock": "22",
+		"category": "conjuntos"
+	},
+	{
+		"id": 4,
+		"thumbnails": [
+			{
+				"originalName": "jean-vogue.png"
+			}
+		],
+		"havePics": true,
+		"title": "Jean Vogue",
+		"code": "00004",
+		"price": "1590",
+		"stock": "10",
+		"category": "jeans"
+	},
+	{
+		"id": 5,
+		"thumbnails": [
+			{
+				"originalName": "saco-green.png"
+			}
+		],
+		"havePics": true,
+		"title": "Saco Green",
+		"code": "00005",
+		"price": "3990",
+		"stock": "2",
+		"category": "sacos"
+	},
+	{
+		"id": 6,
+		"thumbnails": [
+			{
+				"originalName": "vestido-mondrian.png"
+			}
+		],
+		"havePics": true,
+		"title": "Vestido Moon",
+		"code": "00006",
+		"price": "2890",
+		"stock": "12",
+		"category": "vestidos"
+	}
+]
